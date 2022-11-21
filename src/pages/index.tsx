@@ -8,7 +8,7 @@ import { Skill } from '../components/Skills'
 
 export default function Home() {
   return (
-    <div className="bg-[#080808] text-white">
+    <div className="bg-[#080808] text-white ">
       <Header />
       <Banner />
 
