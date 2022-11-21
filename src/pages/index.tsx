@@ -29,11 +29,12 @@ export default function Home() {
       </div>
 
       <h2 className='text-2xl font-bold mx-28 mt-16 mb-5 text-gray-100 border-l-4 border-[#E36125] px-1' >Projetos realizados</h2>
-      <div className='flex flex-wrap justify-center gap-5 mb-32'>
+      <div className='flex flex-wrap justify-center gap-5 mb-32 '>
         <Project />
         <Project />
         <Project />
       </div>
+
       <h2 className='text-2xl font-bold mx-28 mt-16 mb-5 text-gray-100 border-l-4 border-[#E36125] px-1' >Habilidades</h2>
       <Skill />
       <Footer />

@@ -13,10 +13,10 @@ export function Header() {
       </a>
 
       <div className='flex gap-5 text-gray-300 relative '>
-        <a href="" target="_blank" className='hover:text-[#E36125] transition' >
+        <a href="https://www.linkedin.com/in/thaison-oliveira-68a263160/" className='hover:text-[#E36125] transition' >
           <RiLinkedinLine size={36} />
         </a>
-        <a href="https://github.com/tysonOliveira" target="_blank" className='hover:text-[#E36125] transition' >
+        <a href="https://github.com/tysonOliveira" className='hover:text-[#E36125] transition' >
           <RiGithubFill size={36} />
         </a>
       </div>
