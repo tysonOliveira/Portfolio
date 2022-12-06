@@ -8,7 +8,7 @@ export default function Document() {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;600;700&display=swap" rel="stylesheet" />
       </Head>
-      <body className='bg-gray-900 bg-app bg-no-repeat bg-cover scrollbar-thin scrollbar-track-black scrollbar-thumb-[#E36125]'>
+      <body className='bg-gray-900 bg-app bg-no-repeat bg-cover scrollbar-thin scrollbar-track-black scrollbar-thumb-[#181818] '>
         <Main />
         <NextScript />
       </body>

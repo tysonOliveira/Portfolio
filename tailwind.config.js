@@ -5,6 +5,15 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        orange: {
+          500: '#E36125',
+        },
+        background: {
+          800: '#0f0f0f',
+          900: '#080808'
+        },
+      },
       fontFamily: {
         sans: 'Chakra Petch, sans-serif'
       },

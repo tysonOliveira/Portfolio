@@ -3,8 +3,8 @@ import { MdOutlineDevices } from 'react-icons/md'
 
 export function Skill() {
   return (
-    <div className='bg-[#0f0f0f] text-black  mx-28 mb-32 p-5'>
-      <div className='rounded-lg w-full h-1 bg-[#E36125]' />
+    <div className='bg-background-800 text-black  mx-28 mb-72 p-5 rounded'>
+      {/* <div className='rounded-lg w-full h-1 bg-[#E36125]' /> */}
 
       <div className='flex flex-wrap justify-center gap-5 text-[#E36125] p-5'>
         <span className='flex flex-col gap-2 items-center hover:text-gray-100 transition'>

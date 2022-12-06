@@ -8,6 +8,7 @@ export function Banner() {
           Olá, eu sou
           <span className='my-1 text-6xl font-bold text-[#E36125] max-lg:text-gray-100 max-sm:text-4xl' > Thaison Oliveira </span>
           <span className='text-3xl font-semibold max-sm:text-xl max-lg:text-gray-300' >Desenvolvedor Front-End</span>
+
         </h1>
       </div>
     </div>
